@@ -1,0 +1,32 @@
+.cat-main-con{
+    margin-top: 150px;
+}
+.cat-con{
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+.cat-icon{
+  border-radius: 20%;
+}
+.cat-items{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cat-txt{
+  font-size: 16px;
+  color: black;
+   /* font-family: 'Crimson Text', serif; */
+  font-family: 'PT Serif', serif;
+}
+
+.ui.segment{
+  margin-top: 50vh !important;
+  border: none !important;
+}
+.no-pro-img{
+ max-width: 200px;
+ max-height: 200px;
+}
